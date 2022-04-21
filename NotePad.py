@@ -30,7 +30,7 @@ class NotePadRevertCommand(sublime_plugin.ApplicationCommand):
         window.set_sidebar_visible(True)
         window.set_tabs_visible(True)
         window.set_status_bar_visible(True)
-        window.set_minimap_visible(True)
+        window.set_minimap_visible(False)
 
         view.settings().set('gutter',True)
         view.settings().set("toggle_status_bar",True)
