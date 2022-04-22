@@ -1,5 +1,7 @@
 
-# Temporarily hide every component of sublime text for full focus or just simplicity  
+## forked from [https://github.com/va9iff/SublimeNotePad](https://github.com/va9iff/SublimeNotePad) for personal use. I never use minimap so changed revert function to leave it hidden
+
+### Temporarily hide every component of sublime text for full focus or just simplicity  
 
 ![Screenshot of using NotePad commands](imgs/screenshot.gif "Screenshot")
 
